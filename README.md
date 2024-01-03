@@ -27,7 +27,7 @@
   
   **. postOrderTraversal()**
   
-  **.searchmax()**
+  **. searchmax()**
   
   **. searchmin()**
   
