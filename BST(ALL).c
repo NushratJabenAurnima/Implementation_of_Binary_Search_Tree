@@ -1,9 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
@@ -246,8 +240,10 @@ struct Node* Delete (struct Node * root, int data)
 
         return root;
 }
-/**
- *
- * @author Hp
- */
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Project Done by &copy; Nushrat Jaben Aurnima. All Rights Reserved .</h2>
+</body>
+</html>
 
